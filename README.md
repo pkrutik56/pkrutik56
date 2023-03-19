@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Krutik
-- 👀 I’m interested in Hydrology and Hydroinformatics
-- 📫 How to reach me: Shoot me a gmail @ patelkrutik56
+Ph.D. Student @ H2I Labs. Large scale hydrologic modeler. I design tools for efficient flood inundation mapping.
 
 <!---
 pkrutik56/pkrutik56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
